@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Lie to Me",
+        "description": "Students say three sentences about themselves. Two are true, one is fake. Class interrogates them, then votes."
+    },
+    {
+        "name": "Draw & Guess",
+        "description": "One student draws a word on the board, while others guess what it is."
+    },
+    {
+        "name": "Hot Seat",
+        "description": "One student sits with back to the board. You write a word (e.g., \u201cdoctor\u201d), others describe it without saying the word directly."
+    },
+    {
+        "name": "Find Someone Who...",
+        "description": "Find someone who has a cat / plays football / ate noodles today. Student needs to ask questions to find the person."
+    },
+    {
+        "name": "Show me",
+        "description": "Show a picture of something and ask students to describe it silently, others need to guess what it is."
+    },
+    {
+        "name": "Hangman",
+        "description": "A word guessing game where players guess letters to reveal a hidden word. Each incorrect guess draws part of a hangman figure."
+    },
+    {
+        "name": "Floor is Lava",
+        "description": "Students must cross the room without touching the floor. They can use furniture, books, etc."
+    },
+    {
+        "name": "Countries",
+        "description": "Students name a country in a round, one names a country, the next must name a country starting with the last letter of the previous country. . If they can't, they are out. Last one standing wins."
+    },
+    {
+        "name": "Word Association",
+        "description": "One student says a word, the next must say a word related to it. Continue until someone can't think of a word."
+    },
+    {
+        "name": "20 Questions",
+        "description": "One student thinks of an object, others ask yes/no questions to guess what it is within 20 questions."
+    },
+    {
+        "name": "Dead eye",
+        "description": "Draw a target on the board. Students take turns throwing a sticky-ball at it. If they hit, they must answer a question about themselves/lesson."
+    },
+    {
+        "name" : "Who Am I?",
+        "description": "Students write a name of a famous person on a sticky note and stick it to their forehead. They ask yes/no questions to guess who they are."
+    },
+    {
+        "name": "Find the hidden object",
+        "description": "Students leave the class. You hide an object in the classroom. Students return and try to find it."
+    }
+]
